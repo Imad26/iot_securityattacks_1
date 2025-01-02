@@ -1,0 +1,7 @@
+streamlit
+pandas
+Pillow
+joblib
+xgboost==2.1.2
+scikit-learn
+imbalanced-learn
